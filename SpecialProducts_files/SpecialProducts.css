@@ -1,0 +1,135 @@
+body{
+  background-color: #e4d4c8ff;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a47551ff;
+
+  border-color: #a47551ff;
+  border-style: solid;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  position: relative;
+  left:350px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.active {
+  background-color: #d0b49fff;
+}
+
+.header{
+  background-color:#D0B49F;
+  height: 200px;
+}
+
+.title{
+  font-size: 55px;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  padding-top: 20px
+}
+
+.textbox{
+  width: 625px;
+}
+
+.text{
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-size: 17.5px;
+}
+
+.subheading{
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-size: 30px;
+}
+
+.subtext{
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-size: 16.5px;
+}
+
+.objbutton{
+  font-size: 20px;
+  border-radius: 5px;
+  border-style: hidden;
+
+  background-color: #523a28ff;
+  color: white;
+
+  height: 30px;
+
+  position: relative;
+  bottom: 5px;
+}
+
+.textIceCreamMachine{
+  background-color: #d0b49fff;
+  width: 75%;
+  height: 175px;
+  padding: 5px;
+
+  position: relative;
+  top: 20px;
+
+  float: left;
+}
+
+.bobsonIceCreamMachineIMG{
+  float: right;
+  position: relative;
+  top: 20px;
+}
+
+.subtext{
+  width: 40%;
+}
+
+.textIceCreamTruck{
+  background-color: #d0b49fff;
+  width: 65%;
+  height: 270px;
+  padding: 10px;
+  float: left;
+  position: relative;
+  top: 40px;
+  left: 33.5%
+}
+
+.IceCreamTruckimg{
+  float: left;
+  position: relative;
+  right: 66.5%;
+  top: 41px;
+}
+
+.textIceCreamAirplane{
+  background-color: #d0b49fff;
+  width: 72.5%;
+  height: 300px;
+  padding: 10px;
+
+  position: relative;
+  top: 65px;
+
+  float: left;
+}
+
+.iceCreamAirplaneimg{
+  float: right;
+  position: relative;
+  top: 66px;
+}

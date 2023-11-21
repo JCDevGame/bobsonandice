@@ -1,0 +1,294 @@
+body{
+  background-color: #e4d4c8ff;
+}
+
+.majorSubheading{
+  text-align: center;
+  margin-top: 60px;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  
+  font-size: 30px;
+  text-decoration-line: overline;
+}
+
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a47551ff;
+  
+  border-color: #a47551ff;
+  border-style: solid;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  position: relative;
+  left:350px;
+
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.active {
+  background-color: #d0b49fff;
+}
+
+header{
+  position: relative;
+  top: 15px;
+  background-color:#D0B49F;
+  height: 367px;
+}
+
+.title{
+  position: relative;
+  left: 500px;
+  bottom: 350px;
+  font-size: 55px;
+  
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.slogan{
+  position: relative;
+  left: 550px;
+  bottom: 370px;
+  
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.mainobjbutton{
+  position: relative;
+  left: 650px;
+  bottom: 350px;
+  
+  border-color: #523a28ff;
+  background-color: #523a28ff;
+  border-style: hidden;
+  border-radius: 5px;
+  
+  font-size: 22.5px;
+  height: 37.5px;
+  width: 120px;
+  color: white;
+}
+
+.subheading{
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+.popularproducts{
+  
+}
+
+.classicSoftee{
+  background-color: #a47551ff;
+  width: 500px;
+  padding: 10px;
+  margin-top: 30px;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  color: white;
+  
+  height: 325px;
+  float: left;
+}
+
+.classicIceCreamTruck{
+  background-color: #a47551ff;
+  width: 500px;
+  padding: 10px;
+  margin-top: 30px;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  color: white;
+  height: 325px;
+  
+  float: right;
+}
+
+.classicSofteeImg{
+  margin-left: 20px
+}
+
+.objbutton{
+  font-size: 20px;
+  border-radius: 5px;
+  border-style: hidden;
+  float: right;
+  
+  background-color: white;
+  color: black;
+  
+  height: 30px;
+  
+  margin-right: 60px;
+  
+  position: relative;
+  top: 50px;
+  
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.subbutton{
+  font-size: 12.5px;
+  border-radius: 5px;
+  border-style: hidden;
+
+  background-color: #d0b49fff;
+  color: white;
+
+  height: 20px;
+
+  margin-right: 60px;
+
+  position: relative;
+  left: 150px;
+  bottom: 110px;
+  
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.subbutton2{
+  font-size: 12.5px;
+  border-radius: 5px;
+  border-style: hidden;
+  
+  float: right;
+
+  background-color: #d0b49fff;
+  color: white;
+
+  height: 20px;
+
+
+  position: relative;
+  right: 65px;
+  bottom: 65px;
+
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+.WhereProceedsGo{
+  width: 100%;
+  float: right;
+  margin-top: 20px;
+  
+  background-color: #d0b49fff;
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  
+  height: 250px;
+}
+
+.biginfo{
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.text{
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.disclaimer{
+  font-size: 9px;
+  margin-left: 20px;
+}
+
+.mainbodyforsection{
+  width: 400px;
+}
+
+.icecreamcharitylogo{
+  float: right;
+  
+  position: relative;
+  left: 350px;
+  bottom: 185px;
+}
+
+.icecreamcharitydonoimg{
+  float: left;
+  position: relative;
+  right: 425px;
+  bottom: 180px;
+}
+
+.IceCreamMachines{
+  margin-top: 20px;
+  width: 100%;
+  background-color: #d0b49fff;
+  float: right;
+  
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  height: 375px;
+}
+
+.mainbodyformachine{
+  width: 500px;
+}
+
+.bobsonicecreammake{
+  float: right;
+  position: relative;
+  left: 250px;
+  bottom:250px;
+}
+
+.whyChooseUs{
+  margin-top: 20px;
+  width: 100%;
+  background-color: #d0b49fff;
+  float: right;
+
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  height: 225px;
+}
+
+.sectionforchoose{
+  width: 500px;
+}
+
+.michelinimg{
+  float: left;
+  position: relative;
+  right: 375px;
+  bottom: 210px;
+}
+
+.FinalCall{
+  margin-top: 20px;
+  width: 100%;
+  background-color: #d0b49fff;
+  float: right;
+
+  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  height: 170px;
+}
+
+.sectionforfinal{
+  width: 500px;
+}
+
+.finalcallbutton{
+  border-color: #523a28ff;
+  background-color: #523a28ff;
+  border-style: hidden;
+  border-radius: 5px;
+
+  font-size: 22.5px;
+  height: 37.5px;
+  width: 120px;
+  color: white;
+}
